@@ -1,44 +1,44 @@
 [
   {
-    "id": "1",
-    "title": "Five Night's At Epstiens",
-    "description": "Five Nights at Epstein's is a survival horror game with a darkly satirical edge, where you play as a victim trapped on an abandoned island of power.",
-    "url": "https://freedomgamingzone.github.io/five-nights-at-epsteins/",
-    "thumbnail": "https://strongdog.com/5/img/Five%20nights%20at%20epstiens.jpeg"
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "url": "https://play2048.co/",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300"
   },
   {
-    "id": "2",
-    "title": "Geometry Dash Lite",
-    "description": "A thrilling rhythm-based platformer with intense levels and addictive gameplay. Dodge obstacles to the beat of amazing music",
-    "url": "https://strongdog.com/5/html/Geometry%20Dash%20Lite/game/index.html",
-    "thumbnail": "https://strongdog.com/5/img/geometry dash lite.jpeg"
+    "id": "tetris",
+    "title": "Tetris",
+    "description": "The classic block-stacking puzzle game.",
+    "url": "https://tetris.com/play-tetris",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/300"
   },
   {
-    "id": "3",
+    "id": "flappy-bird",
     "title": "Flappy Bird",
     "description": "Fly through the pipes without hitting them.",
     "url": "https://flappybird.io/",
-    "thumbnail": "https://s3.amazonaws.com/gameopedia_covers/covers/225314/462b6bf885e43f6b0669074ae8c4b2cc.jpg"
+    "thumbnail": "https://picsum.photos/seed/flappy/400/300"
   },
   {
-    "id": "4",
-    "title": "Postal",
-    "description": "Postal is a series of shooter video games created by Running with Scissors known for its high-speed gameplay, violence and off-color humor.",
-    "url": "https://strongdog.com/5/html/Postal/game/index.html",
+    "id": "snake",
+    "title": "Snake",
+    "description": "Eat the apples and grow as long as possible.",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html",
     "thumbnail": "https://picsum.photos/seed/snake/400/300"
   },
   {
-    "id": "5",
-    "title": "Polytrack",
-    "description": "A low-poly racing game with loops, jumps and high speeds, where every millisecond counts.",
-    "url": "https://strongdog.com/3/html/new%20polytrack/game/index.html",
-    "thumbnail": "https://strongdog.com/3/img/new%20polytrack.jpg"
+    "id": "doodle-jump",
+    "title": "Doodle Jump",
+    "description": "Jump as high as you can on platforms.",
+    "url": "https://doodlejump.io/",
+    "thumbnail": "https://picsum.photos/seed/jump/400/300"
   },
   {
-    "id": "6",
+    "id": "slope",
     "title": "Slope",
     "description": "Roll down the slope as fast as you can.",
     "url": "https://slopegame.io/",
-    "thumbnail": "data:image/jpeg;base64,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"
+    "thumbnail": "https://picsum.photos/seed/slope/400/300"
   }
 ]
